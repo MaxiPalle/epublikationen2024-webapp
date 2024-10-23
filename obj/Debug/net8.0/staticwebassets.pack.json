@@ -1,24 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\epublikationen2024-webapp.bundle.scp.css",
+      "Id": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\epublikationen2024-webapp.bundle.scp.css",
       "PackagePath": "staticwebassets\\epublikationen2024-webapp.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\docs\\Dies ist ein Test.docx",
-      "PackagePath": "staticwebassets\\docs\\Dies ist ein Test.docx"
-    },
-    {
-      "Id": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\docs\\TEST.pdf",
-      "PackagePath": "staticwebassets\\docs\\TEST.pdf"
-    },
-    {
-      "Id": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\docs\\index.html",
-      "PackagePath": "staticwebassets\\docs\\index.html"
     },
     {
       "Id": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\favicon.ico",
@@ -257,19 +245,19 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.epublikationen2024-webapp.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.epublikationen2024-webapp.props",
       "PackagePath": "build\\epublikationen2024-webapp.props"
     },
     {
-      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.epublikationen2024-webapp.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.epublikationen2024-webapp.props",
       "PackagePath": "buildMultiTargeting\\epublikationen2024-webapp.props"
     },
     {
-      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.epublikationen2024-webapp.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.epublikationen2024-webapp.props",
       "PackagePath": "buildTransitive\\epublikationen2024-webapp.props"
     },
     {
-      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.epublikationen2024-webapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.epublikationen2024-webapp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     }
   ],

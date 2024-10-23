@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QsonjdOb+kZwY5yT7pIZaKY4AjeCfiCuarThrchcvSI=",
+  "Hash": "n7yjZXDAq7nGUzT3ubLkN/i9b9WZqVFpPAHFFzc5/uU=",
   "Source": "epublikationen2024-webapp",
   "BasePath": "_content/epublikationen2024-webapp",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Release\\net8.0\\scopedcss\\bundle\\epublikationen2024-webapp.styles.css",
+      "Identity": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\epublikationen2024-webapp.styles.css",
       "SourceId": "epublikationen2024-webapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/epublikationen2024-webapp",
       "RelativePath": "epublikationen2024-webapp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Release\\net8.0\\scopedcss\\bundle\\epublikationen2024-webapp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\epublikationen2024-webapp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\epublikationen2024-webapp.bundle.scp.css",
+      "Identity": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\epublikationen2024-webapp.bundle.scp.css",
       "SourceId": "epublikationen2024-webapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/epublikationen2024-webapp",
       "RelativePath": "epublikationen2024-webapp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\epublikationen2024-webapp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\epublikationen2024-webapp.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\css\\site.css",
@@ -72,63 +72,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\docs\\Dies ist ein Test.docx",
-      "SourceId": "epublikationen2024-webapp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\",
-      "BasePath": "_content/epublikationen2024-webapp",
-      "RelativePath": "docs/Dies ist ein Test.docx",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\docs\\Dies ist ein Test.docx"
-    },
-    {
-      "Identity": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\docs\\index.html",
-      "SourceId": "epublikationen2024-webapp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\",
-      "BasePath": "_content/epublikationen2024-webapp",
-      "RelativePath": "docs/index.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\docs\\index.html"
-    },
-    {
-      "Identity": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\docs\\TEST.pdf",
-      "SourceId": "epublikationen2024-webapp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\",
-      "BasePath": "_content/epublikationen2024-webapp",
-      "RelativePath": "docs/TEST.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\docs\\TEST.pdf"
     },
     {
       "Identity": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\favicon.ico",
