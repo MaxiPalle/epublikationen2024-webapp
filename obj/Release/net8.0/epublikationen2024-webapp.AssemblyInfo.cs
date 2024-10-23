@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("epublikationen2024-webapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1d68f7314151348dcb9dec418cb994f80b6310e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c9200971bb17e951c618cf2b0f165feab56d43b")]
 [assembly: System.Reflection.AssemblyProductAttribute("epublikationen2024-webapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("epublikationen2024-webapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
