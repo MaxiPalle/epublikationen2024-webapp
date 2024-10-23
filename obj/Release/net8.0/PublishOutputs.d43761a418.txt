@@ -1,0 +1,7 @@
+C:\Users\jens.kruse\Source\github\epublikationen2024-webapp\bin\Release\net8.0\publish\epublikationen2024-webapp.exe
+C:\Users\jens.kruse\Source\github\epublikationen2024-webapp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\jens.kruse\Source\github\epublikationen2024-webapp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\jens.kruse\Source\github\epublikationen2024-webapp\bin\Release\net8.0\publish\epublikationen2024-webapp.dll
+C:\Users\jens.kruse\Source\github\epublikationen2024-webapp\bin\Release\net8.0\publish\epublikationen2024-webapp.deps.json
+C:\Users\jens.kruse\Source\github\epublikationen2024-webapp\bin\Release\net8.0\publish\epublikationen2024-webapp.runtimeconfig.json
+C:\Users\jens.kruse\Source\github\epublikationen2024-webapp\bin\Release\net8.0\publish\epublikationen2024-webapp.pdb

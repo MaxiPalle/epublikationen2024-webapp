@@ -1,0 +1,2 @@
+C:\Users\jens.kruse\Source\github\epublikationen2024-webapp\bin\Debug\net8.0\epublikationen2024-webapp.exe
+C:\Users\jens.kruse\Source\github\epublikationen2024-webapp\bin\Debug\net8.0\epublikationen2024-webapp.dll

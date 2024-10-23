@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/a128799e-01df-4515-8584-cf10ec14cbc4/resourceGroups/rg-bbkdemo/providers/Microsoft.Web/sites/epublikationen2024-webapp"
+}
