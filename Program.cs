@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.StaticFiles;
 using Microsoft.Extensions.FileProviders;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,12 +20,20 @@ app.UseHttpsRedirection();
 
 app.UseStaticFiles();
 
-app.UseFileServer(new FileServerOptions
+var fileProvider = new PhysicalFileProvider(Path.Combine(builder.Environment.WebRootPath, "docs"));
+var requestPath = "/docs";
+
+// Enable displaying browser links.
+app.UseStaticFiles(new StaticFileOptions
 {
-    FileProvider = new PhysicalFileProvider(
-           Path.Combine(builder.Environment.ContentRootPath, "MyStaticFiles")),
-    RequestPath = "/StaticFiles",
-    EnableDirectoryBrowsing = true
+    FileProvider = fileProvider,
+    RequestPath = requestPath
+});
+
+app.UseDirectoryBrowser(new DirectoryBrowserOptions
+{
+    FileProvider = fileProvider,
+    RequestPath = requestPath
 });
 
 app.UseAuthorization();

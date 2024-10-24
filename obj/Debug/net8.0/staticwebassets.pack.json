@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\docs\\Dies ist ein Test.docx",
+      "PackagePath": "staticwebassets\\docs\\Dies ist ein Test.docx"
+    },
+    {
+      "Id": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\docs\\TEST.pdf",
+      "PackagePath": "staticwebassets\\docs\\TEST.pdf"
+    },
+    {
       "Id": "C:\\Users\\jens.kruse\\Source\\github\\epublikationen2024-webapp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
